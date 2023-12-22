@@ -1,0 +1,8 @@
+*.pem
+*.bak
+config
+data
+db
+log
+msg
+colorDB
