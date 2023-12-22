@@ -1,7 +1,7 @@
 V 14
 1
 LANG:10001 0 
-PANEL,-1 -1 1235 938 N "WF_ParamIncorrect" 0
+PANEL,-1 -1 623 1087 N "WF_ParamIncorrect" 0
 E E E E E 1 -1 -1 0  40 30
 ""0  1
 E E 4
@@ -145,9 +145,10 @@ E E E
 1
 LANG:10001 0 
 
-3
-"minimumSize" "300 300"
-"maximumSize" "300 300"
+4
+"minimumSize" "150 150"
+"maximumSize" "-1 300"
+"sizePolicy" "Expanding Preferred"
 "layoutAlignment" "AlignNone"
 1
 LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
@@ -165,9 +166,10 @@ E E E
 1
 LANG:10001 0 
 
-3
+4
 "minimumSize" "151 151"
 "maximumSize" "-1 300"
+"sizePolicy" "MinimumExpanding Preferred"
 "layoutAlignment" "AlignNone"
 1
 LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
