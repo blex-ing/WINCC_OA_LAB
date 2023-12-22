@@ -1,7 +1,7 @@
 V 14
 1
 LANG:10001 0 
-PANEL,-1 -1 1000 287 N "_3DFace" 0
+PANEL,-1 -1 1000 287 N "WF_ParamIncorrect" 0
 E E E E E 1 -1 -1 0  40 30
 ""0  1
 E E 4
@@ -9,7 +9,7 @@ E E 4
 "EClose" E
 "dpi" "96"
 "pdpi" "91.7938"
-0 0 0
+3 0 0
 ""
 DISPLAY_LAYER, 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
 LAYER, 0 
