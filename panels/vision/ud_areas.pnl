@@ -3,7 +3,7 @@ V 14
 LANG:10001 19 Area administration
 LANG:10000 18 Bereichsverwaltung
 LANG:10027 39 Управление участками
-PANEL,-1 -1 672 363 N "_3DFace" 0
+PANEL,-1 -1 664 260 N "_3DFace" 0
 "main()
 {
   uid.visible = false;
@@ -771,12 +771,6 @@ LANG:10001 6 Layer8
 "G 1" "1 0 1 1"
 "" ""
 0 4 0 0
-1 4 "SHAPE_GROUP4" -1
-2 0 
-20 28 
-
-"layoutAlignment" "AlignNone"
-"" ""
 1 5 "SHAPE_GROUP5" 6
 2 1 
 23 8 
