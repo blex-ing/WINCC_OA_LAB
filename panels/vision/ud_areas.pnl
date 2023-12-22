@@ -3,7 +3,7 @@ V 14
 LANG:10001 19 Area administration
 LANG:10000 18 Bereichsverwaltung
 LANG:10027 39 Управление участками
-PANEL,-1 -1 688 261 N "_3DFace" 0
+PANEL,-1 -1 669 265 N "_3DFace" 0
 "main()
 {
   uid.visible = false;
@@ -93,7 +93,7 @@ string beautifyAreaErrorMessage(const string &message)
 "EClose" E
 "dpi" "96"
 "pdpi" "96"
-3 0 0
+0 0 0
 ""
 DISPLAY_LAYER, 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
 LAYER, 0 
@@ -760,8 +760,8 @@ LANG:10001 6 Layer8
 5 0 
 21 22 12 10 9 
 
-"minimumSize" "200 50"
-"maximumSize" "-1 60"
+"minimumSize" "60 30"
+"maximumSize" "300 60"
 "layoutAlignment" "AlignNone"
 "" ""
 4 3 "LAYOUT_GROUP1" 6
@@ -777,7 +777,7 @@ LANG:10001 6 Layer8
 2 1 
 23 8 
 0 
-"minimumSize" "250 -1"
+"minimumSize" "300 -1"
 "sizePolicy" "Preferred Preferred"
 "layoutAlignment" "AlignNone"
 "" ""
