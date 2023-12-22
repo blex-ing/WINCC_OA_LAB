@@ -1,0 +1,224 @@
+V 14
+1
+LANG:10001 0 
+PANEL,-1 -1 517 326 N "_3DFace" 0
+E E E E E 1 -1 -1 0  40 60
+""0  1
+E E 4
+"CBRef" "1"
+"EClose" E
+"dpi" "96"
+"pdpi" "91.7938"
+1 0 0
+""
+DISPLAY_LAYER, 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+LAYER, 0 
+1
+LANG:10001 0 
+13 1
+"PUSH_BUTTON1"
+""
+1 40 60 E E E 1 E 1 E N "_ButtonText" E N "_Button" E E
+ E E
+0 0 0 0 0 0
+E E E
+8
+1
+LANG:10001 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
+0  38 54 162 87
+
+T 
+1
+LANG:10001 12 PUSH_BUTTON1
+E E E E
+7 2
+"ELLIPSE1"
+""
+1 170 170 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+1 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E U  1 E 170 170 50 50
+6 3
+"RECTANGLE1"
+""
+1 80 250 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+2 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 1 3 2 1 E 1 0 1 20 7.5 1 E 80 250 210 300
+13 4
+"PUSH_BUTTON2"
+""
+1 291 56 E E E 1 E 1 E N "_ButtonText" E N "_Button" E E
+ E E
+3 0 0 0 0 0
+E E E
+8
+1
+LANG:10001 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
+0  289 50.68965517241381 390.2727272727273 78.68965517241381
+
+T 
+1
+LANG:10001 12 PUSH_BUTTON2
+E E E E
+13 5
+"PUSH_BUTTON3"
+""
+1 407.7272727272727 56 E E E 1 E 1 E N "_ButtonText" E N "_Button" E E
+ E E
+4 0 0 0 0 0
+E E E
+8
+1
+LANG:10001 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
+0  405.7272727272727 50.68965517241381 507 78.68965517241381
+
+T 
+1
+LANG:10001 12 PUSH_BUTTON2
+E E E E
+6 6
+"RECTANGLE2"
+""
+1 280 180 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+5 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 1 3 2 1 E 1 0 1 30 -10 1 E 280 180 340 230
+7 7
+"ELLIPSE2"
+""
+1 460 280 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+6 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "1"
+E E 0 1 3 2 1 E U  1 E 460 280 30 30
+32 8
+"SPACER1"
+""
+1 370 169.9999999999998 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+7 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+3
+"transparentForMouse" ""
+"sizePolicy" "Fixed Ignored"
+"layoutAlignment" "AlignNone"
+ 370 169.9999999999998 430 310 1
+0
+LAYER, 1 
+1
+LANG:10001 0 
+0
+LAYER, 2 
+1
+LANG:10001 0 
+0
+LAYER, 3 
+1
+LANG:10001 0 
+0
+LAYER, 4 
+1
+LANG:10001 0 
+0
+LAYER, 5 
+1
+LANG:10001 0 
+0
+LAYER, 6 
+1
+LANG:10001 0 
+0
+LAYER, 7 
+1
+LANG:10001 0 
+0
+4 0 "LAYOUT_GROUP1" -1
+3 0 
+1 2 3 
+
+"S 1" "0 0 1 1"
+"S 2" "1 0 1 1"
+"S 3" "2 0 1 1"
+"" ""
+0 2 0 0
+4 1 "LAYOUT_GROUP2" 3
+2 0 
+4 5 
+
+"S 4" "0 0 1 1"
+"S 5" "1 0 1 1"
+"" ""
+0 1 0 0
+4 2 "LAYOUT_GROUP3" 3
+3 0 
+6 7 8 
+
+"S 6" "0 0 1 1"
+"S 7" "2 0 1 1"
+"S 8" "1 0 1 1"
+"" ""
+0 1 0 0
+4 3 "LAYOUT_GROUP5" -1
+0 2 
+
+1 2 
+"G 1" "0 0 1 1"
+"G 2" "1 0 1 1"
+"" ""
+0 2 0 0
+0

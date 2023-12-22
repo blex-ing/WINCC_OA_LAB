@@ -1,0 +1,309 @@
+V 14
+1
+LANG:10001 0 
+PANEL,-1 -1 1155 560 N "_3DFace" 0
+E E E E E 1 -1 -1 0  40 49
+""0  1
+E E 4
+"CBRef" "1"
+"EClose" E
+"dpi" "96"
+"pdpi" "91.7938"
+1 0 0
+""
+DISPLAY_LAYER, 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+LAYER, 0 
+1
+LANG:10001 0 
+30 1
+"FRAME1"
+""
+1 40 49 E E E 1 E 1 E N "_WindowText" E N {0,0,0} E E
+ E E
+0 0 0 0 0 0
+E E E
+1
+1
+LANG:10001 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 1 3 2 1 E U  0 E 40 49 281 291
+1
+LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
+0 1
+LANG:10001 11 Frame Title
+13 2
+"PUSH_BUTTON1"
+""
+1 70 100 E E E 1 E 1 E N "_ButtonText" E N "_Button" E E
+ E E
+1 0 0 0 0 0
+E E E
+8
+1
+LANG:10001 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
+0  68 94 142 127
+
+T 
+1
+LANG:10001 1 A
+E E E E
+13 3
+"PUSH_BUTTON2"
+""
+1 187 100 E E E 1 E 1 E N "_ButtonText" E N "_Button" E E
+ E E
+2 0 0 0 0 0
+E E E
+8
+1
+LANG:10001 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
+0  185 94 259 127
+
+T 
+1
+LANG:10001 1 B
+E E E E
+6 4
+"RECTANGLE1"
+""
+1 70 150 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+3 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+5
+"minimumSize" "30 30"
+"maximumSize" "100 80"
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 1 3 2 1 E U  1 E 70 150 140 230
+19 5
+"RADIO_BOX1"
+""
+1 187 145 E E E 1 E 1 E N "STD_inputfield_back_marked" E N "_Transparent" E E
+ E E
+4 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"layoutAlignment" "AlignNone"
+"showBackground" "0"
+1
+LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
+0  185 143 262 237
+2
+T 
+1
+LANG:10001 3 YES
+
+1 
+1
+LANG:10001 0 
+E E
+0 0 0 0 0
+T 
+1
+LANG:10001 2 NO
+
+0 
+1
+LANG:10001 0 
+E E
+0 0 0 0 0
+1
+E E
+30 6
+"FRAME2"
+""
+1 40 49 E E E 1 E 1 E N "_WindowText" E N {0,0,0} E E
+ E E
+5 0 0 0 0 0
+E E E
+1
+1
+LANG:10001 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 1 3 2 1 E 1 0 0.9999999999999999 279.9999999999999 1 0 E 40 49 281 291
+1
+LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
+0 1
+LANG:10001 11 Frame Title
+13 7
+"PUSH_BUTTON3"
+""
+1 333.9999999999999 105 E E E 1 E 1 E N "_ButtonText" E N "_Button" E E
+ E E
+6 0 0 0 0 0
+E E E
+8
+1
+LANG:10001 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
+0  331.9999999999999 99 406 132
+
+T 
+1
+LANG:10001 1 A
+E E E E
+6 8
+"RECTANGLE2"
+""
+1 70 150 E E E 1 E 1 E N {0,0,0} E N {255,255,255} E E
+ E E
+7 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+3
+"layoutAlignment" "AlignNone"
+"dashclr"N "_Transparent"
+"antiAliased" "0"
+E E 0 1 3 2 1 E 1 0 1 264 5 1 E 70 150 140 230
+13 9
+"PUSH_BUTTON4"
+""
+1 458.9999999999999 105 E E E 1 E 1 E N "_ButtonText" E N "_Button" E E
+ E E
+8 0 0 0 0 0
+E E E
+8
+1
+LANG:10001 0 
+
+1
+"layoutAlignment" "AlignNone"
+1
+LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
+0  456.9999999999999 99 531 132
+
+T 
+1
+LANG:10001 1 B
+E E E E
+19 10
+"RADIO_BOX2"
+""
+1 459 150 E E E 1 E 1 E N "STD_inputfield_back_marked" E N "_Transparent" E E
+ E E
+9 0 0 0 0 0
+E E E
+0
+1
+LANG:10001 0 
+
+2
+"layoutAlignment" "AlignNone"
+"showBackground" "0"
+1
+LANG:10001 30 Noto Sans,-1,16,5,50,0,0,0,0,0
+0  457 148 534 242
+2
+T 
+1
+LANG:10001 3 YES
+
+1 
+1
+LANG:10001 0 
+E E
+0 0 0 0 0
+T 
+1
+LANG:10001 2 NO
+
+0 
+1
+LANG:10001 0 
+E E
+0 0 0 0 0
+1
+E E
+0
+LAYER, 1 
+1
+LANG:10001 0 
+0
+LAYER, 2 
+1
+LANG:10001 0 
+0
+LAYER, 3 
+1
+LANG:10001 0 
+0
+LAYER, 4 
+1
+LANG:10001 0 
+0
+LAYER, 5 
+1
+LANG:10001 0 
+0
+LAYER, 6 
+1
+LANG:10001 0 
+0
+LAYER, 7 
+1
+LANG:10001 0 
+0
+4 0 "LAYOUT_GROUP1" 2
+5 0 
+1 2 3 4 5 
+
+"S 2" "0 0 1 1"
+"S 3" "2 0 1 1"
+"S 4" "1 0 1 1"
+"S 5" "3 0 1 1"
+"" ""
+1 1 0 0
+4 1 "LAYOUT_GROUP10" 2
+5 0 
+6 7 8 9 10 
+
+"S 7" "0 0 1 1"
+"S 8" "1 0 1 1"
+"S 9" "2 0 1 1"
+"S 10" "3 0 1 1"
+"" ""
+1 1 0 0
+4 2 "LAYOUT_GROUP12" -1
+0 2 
+
+0 1 
+"G 0" "0 0 1 1"
+"G 1" "1 0 1 1"
+"" ""
+0 1 0 0
+0
