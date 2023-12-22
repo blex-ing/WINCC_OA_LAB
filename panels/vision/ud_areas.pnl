@@ -3,7 +3,7 @@ V 14
 LANG:10001 19 Area administration
 LANG:10000 18 Bereichsverwaltung
 LANG:10027 39 Управление участками
-PANEL,-1 -1 669 265 N "_3DFace" 0
+PANEL,-1 -1 688 269 N "_3DFace" 0
 "main()
 {
   uid.visible = false;
@@ -93,7 +93,7 @@ string beautifyAreaErrorMessage(const string &message)
 "EClose" E
 "dpi" "96"
 "pdpi" "96"
-0 0 0
+3 0 0
 ""
 DISPLAY_LAYER, 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
 LAYER, 0 
@@ -263,7 +263,8 @@ LANG:10001 0
 LANG:10000 0 
 LANG:10027 0 
 
-1
+2
+"minimumSize" "300 -1"
 "layoutAlignment" "AlignCenter"
 3
 LANG:10001 26 arial,-1,13,5,40,0,0,0,0,0
@@ -748,7 +749,7 @@ LANG:10001 6 Layer8
 "" ""
 "objects_parts/STD_OBJECTS/ButtonBarBackground.pnl" 0 215 T 17 1.340681362725451 0 1 -8.500000000000057 0
 0
-1 1 "SHAPE_GROUP1" 3
+1 1 "SHAPE_GROUP1" 6
 6 0 
 26 16 15 17 27 0 
 
@@ -756,7 +757,7 @@ LANG:10001 6 Layer8
 "maximumSize" "300 80"
 "layoutAlignment" "AlignNone"
 "" ""
-1 2 "SHAPE_GROUP2" 3
+1 2 "SHAPE_GROUP2" 6
 5 0 
 21 22 12 10 9 
 
@@ -764,16 +765,7 @@ LANG:10001 6 Layer8
 "maximumSize" "300 60"
 "layoutAlignment" "AlignNone"
 "" ""
-4 3 "LAYOUT_GROUP1" 6
-1 2 
-1 
-2 1 
-"S 1" "0 0 1 1"
-"G 2" "2 0 1 1"
-"G 1" "1 0 1 1"
-"" ""
-0 4 0 0
-1 5 "SHAPE_GROUP5" 6
+1 5 "SHAPE_GROUP5" 8
 2 1 
 23 8 
 0 
@@ -781,12 +773,28 @@ LANG:10001 6 Layer8
 "sizePolicy" "Preferred Preferred"
 "layoutAlignment" "AlignNone"
 "" ""
-4 6 "LAYOUT_GROUP2" -1
+1 6 "SHAPE_GROUP6" 7
 0 2 
 
-3 5 
-"G 3" "1 0 1 1"
-"G 5" "0 0 1 1"
+2 1 
+"minimumSize" "300 200"
+"maximumSize" "500 300"
+"layoutAlignment" "AlignNone"
+"" ""
+4 7 "LAYOUT_GROUP1" 8
+1 1 
+1 
+6 
+"S 1" "0 0 1 1"
+"G 6" "1 0 1 1"
+"" ""
+0 4 0 0
+4 8 "LAYOUT_GROUP2" -1
+0 2 
+
+5 7 
+"G 5" "1 0 1 1"
+"G 7" "0 0 1 1"
 "" ""
 0 2 0 0
 0
