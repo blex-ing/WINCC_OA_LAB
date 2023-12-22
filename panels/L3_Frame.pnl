@@ -90,7 +90,7 @@ LANG:10001 0
 
 5
 "minimumSize" "30 30"
-"maximumSize" "100 80"
+"maximumSize" "200 200"
 "layoutAlignment" "AlignNone"
 "dashclr"N "_Transparent"
 "antiAliased" "0"
@@ -305,5 +305,5 @@ LANG:10001 0
 "G 0" "0 0 1 1"
 "G 1" "1 0 1 1"
 "" ""
-0 1 0 0
+0 2 0 0
 0
